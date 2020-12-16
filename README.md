@@ -3,5 +3,5 @@ I have used the EgoHands dataset which contains 48 Google Glass videos of comple
 You can run this code directly from google colab.
 
 # Example
-![](Images/example1.jpg)
-![](Images/example2.jpg)
+![](Images/example1.JPG)
+![](Images/example2.JPG)
